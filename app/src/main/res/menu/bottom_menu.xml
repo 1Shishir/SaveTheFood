@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/icon1"
+        android:title="Foods"
+        android:icon="@drawable/ic_baseline_fastfood_24"/>
+
+    <item android:id="@+id/icon2"
+        android:title="Sell Food"
+        android:icon="@drawable/ic_baseline_monetization_on_24"/>
+
+    <item android:title=""/>
+
+    <item android:id="@+id/icon4"
+        android:title="Pantry"
+        android:icon="@drawable/noun_fridge"/>
+
+    <item android:id="@+id/icon5"
+        android:title="Contact"
+        android:icon="@drawable/ic_baseline_support_agent_24"/>
+
+</menu>

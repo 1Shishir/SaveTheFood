@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704367442128",
+    "project_id": "save-the-food-41f07",
+    "storage_bucket": "save-the-food-41f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704367442128:android:ad8d37459c0796755f06d5",
+        "android_client_info": {
+          "package_name": "com.example.savethefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704367442128-qk20bt2lb857v39tab2ncjrto9emcet7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX1eai16yKYdHXdi8QdgHtz4aA0vJPAOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704367442128-qk20bt2lb857v39tab2ncjrto9emcet7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
